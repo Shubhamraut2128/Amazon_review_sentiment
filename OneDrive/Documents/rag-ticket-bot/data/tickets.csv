@@ -1,0 +1,6 @@
+ticket_id,issue,solution
+1,Payment failed but money deducted,Refund will be processed within 24 hours
+2,Login OTP not received,Ask user to check spam folder and resend OTP
+3,Unable to reset password,Send password reset link again
+4,App crashing on startup,Ask user to update app to latest version
+5,Order not delivered,Check tracking status and escalate to courier
